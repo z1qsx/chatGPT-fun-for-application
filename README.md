@@ -1,4 +1,6 @@
 ## ChatGPT-WEB
+> 本项目基于 [chatGPT-web](https://github.com/mic1on/chatGPT-web) 开发。
+
 
 ![](https://miclon-job.oss-cn-hangzhou.aliyuncs.com/img/20230306213958.png)
 
